@@ -177,8 +177,6 @@ compress_html:
   ignore:
     envs: [development]
 
-exclude:
-
 jekyll-archives:
   enabled: [categories, tags]
   layouts:
