@@ -44,7 +44,7 @@ const resource = [
 const allowedDomains = [
   
 
-  'localhost:4000',
+  'eljijos.github.io',
 
   
     'raw.githubusercontent.com',
